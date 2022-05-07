@@ -7,7 +7,7 @@ function Footer() {
       <p className="copyright">
         Copyright &copy; 2022{" "}
         <span>
-          Powered by: <b className="food">Side Hustle Group 30</b>
+          Powered by: <b className="food"> Pscon Side Hustle Project </b>
         </span>
       </p>
     </footer>
